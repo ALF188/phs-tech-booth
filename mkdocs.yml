@@ -1,5 +1,5 @@
 site_name: PHS Tech Booth
-site_url: http://127.0.0.1:8000/
+site_url: https://phs-tech-booth.pages.dev/
 theme:
   name: material
   palette:
@@ -19,8 +19,8 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
       primary: custom
-  logo: fontawesome/solid/computer
-  favicon: fontawesome/solid/computer
+  logo: assets/PHS.png
+  favicon: assets/PHS.png
   features:
     - navigation.instant
     - navigation.instant.progress

@@ -19,8 +19,8 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
       primary: custom
-  logo: assets/PHS.png
-  favicon: assets/PHS.png
+  logo: fontawesome/solid/computer
+  favicon: fontawesome/solid/computer
   features:
     - navigation.instant
     - navigation.instant.progress

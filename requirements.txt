@@ -1,2 +1,2 @@
 mkdocs-material==9.5.40
-mkdocs-encryptcontent-plugin==3.03
+mkdocs-encryptcontent-plugin==3.0.3

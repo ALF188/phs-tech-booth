@@ -34,13 +34,11 @@ extra_css:
 plugins:
     - search
     - encryptcontent:
+        #password_file: 'passwords.yml'
         global_password: 'password'
         password_button: True
         search_index: 'dynamically'
-
-#nav:
-#  - Section:
-#    - section/index.md 
-#    - Page 1: section/page-1.md
-#    ...
-#    - Page n: section/page-n.md
+        title_prefix: ''
+        summary: ''
+        remember_password: true
+        remember_keys: true

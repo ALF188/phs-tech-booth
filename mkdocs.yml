@@ -29,16 +29,24 @@ theme:
     - navigation.sections
     - navigation.indexes
     - navigation.top
+    - content.tooltips
 extra_css:
   - stylesheets/extra.css
 plugins:
+    - glightbox
     - search
     - encryptcontent:
         #password_file: 'passwords.yml'
-        global_password: 'password'
+        global_password: '4020'
         password_button: True
         search_index: 'dynamically'
         title_prefix: ''
         summary: ''
         remember_password: true
         remember_keys: true
+markdown_extensions:
+  - abbr
+  - attr_list
+  - pymdownx.snippets
+  - md_in_html
+  - pymdownx.blocks.caption

@@ -23,6 +23,6 @@
 
 ### FAQ / Missed Info
 
-Please post anything I might have missed or any questions you have [here](./faq.md).
+Please post anything I might have missed or any questions you have [here](./FAQ%20&%20Recent%20Website%20Changes/index.md).
 
 *[password]: 4020

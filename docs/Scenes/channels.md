@@ -1,5 +1,7 @@
 # Manipulating Channels
 
+Open the **Blind Table** 
+
 Select a channel by typing `Channel` and the number channel you would like to modify. You can also click on the channel number on the row you would like to modify in the **Blind Table**.
 
 | Attribute      | Description                          |

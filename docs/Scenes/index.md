@@ -2,7 +2,7 @@
 
 ### Submasters
 
-A submaster is a preset scene, programmed in [Blind](../Glossary/mode.md), and usually mapped to a [fader](../Glossary/faders.md) to control the intensity.
+A submaster is a preset scene, programmed in [Blind](../Glossary/index.md), and usually mapped to a [fader](../Glossary/index.md) to control the intensity.
 
 ### Creating a Submaster
 
@@ -24,8 +24,8 @@ A submaster is a preset scene, programmed in [Blind](../Glossary/mode.md), and u
 
 ### Editing a Submaster
 
-1. Clear the [Command Line](../Glossary/cmdLine.md) and type in `Sub` and the number submaster you would like to edit. Press `Enter`.
-2. If not already in [Blind](../Glossary/mode.md) mode, please click `Blind`.
+1. Clear the command line and type in `Sub` and the number submaster you would like to edit. Press `Enter`.
+2. If not already in [Blind](../Glossary/index.md) mode, please click `Blind`.
 3. Open the blind table by clicking the blind tab tab or opening a new tab and selecting **Blind Table**.
 4. [Manipulate the channels](./channels.md) to your liking.
 5. Everything saves automatically, so no need to save.

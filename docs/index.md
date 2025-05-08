@@ -4,7 +4,7 @@
 
 ### Turning the System On
 
-1. In the booth, tap on the [touch screen box](./Glossary/touchscreen.md) twice
+1. In the booth, tap on the [touch screen box](./Glossary/index.md) twice
 2. Go to **Setup**, and input the password
 3. Select **Console**
 4. Turn on the light board by pressing the power button in the top right
@@ -16,9 +16,9 @@
 
 ### Turning the System Off
 
-1. Turn all your [faders](./Glossary/faders.md) off and go to cue 0 if using a [cue list](./Scenes/cues.md).
-2. Press the power button and select power off on the right monitor.
-3. Go to the [touch screen box](./Glossary/touchscreen.md) and click on **Setup**, input the password, and select **Not Console**.
+1. Turn all your [faders](./Glossary/index.md) off and go to cue 0 if using a [cue list](./Scenes/cues.md).
+2. Press the power button and select `Power Off` on the right monitor.
+3. Go to the [touch screen box](./Glossary/index.md) and click on **Setup**, input the password, and select **Not Console**.
 4. You're all set!
 
 ### FAQ / Missed Info
